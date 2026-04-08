@@ -19,7 +19,9 @@ I am currently learning C programming and uploading my practice programs here.
             - assignment operator
             - bitwise operator
             - logical operator
-            - relationl operator 
+            - relationl operator
+- MULTILICATION TABLE
+  
 (More programs will be added as I learn)
 
 ---
