@@ -12,7 +12,8 @@ I am currently learning C programming and uploading my practice programs here.
 ---
 
 ## 📂 Programs
-- Hello World program  
+- Hello World program
+- sizeof Operator 
 (More programs will be added as I learn)
 
 ---
