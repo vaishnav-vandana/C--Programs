@@ -16,6 +16,7 @@ I am currently learning C programming and uploading my practice programs here.
 - sum of two numbers
 - sizeof operator example
 - operators - arithmetic operator
+            - relational operator
 (More programs will be added as I learn)
 
 ---
