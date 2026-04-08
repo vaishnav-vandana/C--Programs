@@ -14,6 +14,7 @@ I am currently learning C programming and uploading my practice programs here.
 ## 📂 Programs
 - Hello World program
 - sum of two numbers
+- sizeof operator example
 (More programs will be added as I learn)
 
 ---
