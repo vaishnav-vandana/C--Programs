@@ -1,6 +1,7 @@
 // OPERATOR IN C LANGUAGE //
-/* ARITHMATIC OPERATOR */
+/* ARITHMETIC OPERATOR */
 #include <stdio.h>
+
 int main()
 {
     int a ,b;
@@ -14,3 +15,10 @@ int main()
     
     return 0;
 }
+
+/*OUTPUT : 
+a-b = 1
+a+b = 5
+a*b = 6
+a/b = 1
+*/
