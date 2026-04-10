@@ -1,5 +1,6 @@
 /*BITWISE OPERATOR*/
 #include <stdio.h>
+
 int main()
 {
     int a , b ;
@@ -16,3 +17,12 @@ int main()
 
     return 0 ; 
 }
+
+/* OUTPUT : 
+a&b 1
+a|b 7
+a^b 6
+~a -6
+a<<1 10
+a>>1 2
+*/
