@@ -1,5 +1,6 @@
 /*LOGICAL OPERATOR */
 #include <stdio.h>
+
 int main ()
 {
     int a,b;
@@ -13,3 +14,9 @@ int main ()
     return 0 ;
 
 }
+
+/* OUTPUT :
+a&&b 0
+a||b 1
+!(a&&b) 1
+*/
