@@ -1,4 +1,4 @@
-/*ESCAPE SEQUENCE*/
+/*ESCAPE SEQUENCE IN C */
 
 //1. \n - New Line
 #include <stdio.h>
