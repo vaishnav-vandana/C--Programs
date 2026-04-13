@@ -1,6 +1,7 @@
 /*3. if else-if LADDER STATEMENT IN C  */
 
 #include <stdio.h>
+
 int main()
 {
     int age;
@@ -23,3 +24,10 @@ int main()
     return 0 ; 
 
 }
+/*
+OUTPUT :
+Key Observations:
+✔ Output depends on user input  
+✔ Only one condition executes  
+✔ First true condition in if-else ladder is selected 
+*/
