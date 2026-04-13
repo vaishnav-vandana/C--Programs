@@ -1,6 +1,7 @@
 /*2. if-else STATEMENT IN C */
 
 #include <stdio.h>
+
 int main ()
 {
     int age;
@@ -18,3 +19,10 @@ int main ()
 
     return 0 ; 
 }
+
+/*
+OUTPUT :
+✔ Output depends on age input
+✔ If age ≥ 18 → can vote
+✔ Else → cannot vote
+*/
