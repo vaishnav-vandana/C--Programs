@@ -1,4 +1,5 @@
 /* USE OF FORMAT SPECIFIER IN C */
+
 #include <stdio.h>
 
 int main()
