@@ -1,4 +1,5 @@
 /* SWITCH CASE  IN C */
+
 #include <stdio.h>
 
 int main()
@@ -27,3 +28,10 @@ int main()
     }
     return 0 ;
 }
+
+/*
+OUTPUT :
+✔ Output depends on user input
+✔ Only one case executes at a time
+✔ default runs if no case matches
+*/
