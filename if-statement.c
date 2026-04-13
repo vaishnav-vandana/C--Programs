@@ -1,5 +1,7 @@
-/*IF -ELSE STATEMENTS IN C */
+// IF -ELSE STATEMENTS IN C 
+
 /* 1. if statement */
+
 #include <stdio.h>
 
 int main()
@@ -12,3 +14,7 @@ int main()
 
     return 0 ;
 }          
+/*
+OUTPUT:
+You are an adult
+*/
