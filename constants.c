@@ -1,4 +1,4 @@
-/*USE OF CONSTANTS IN C */
+/*USE OF CONST KEYWORD  IN C */
 #include <stdio.h>
 
 int main()
@@ -16,4 +16,4 @@ int main()
 /* OUTPUT:
 a = 8
 b = 7.333000
-*/
+*/ 
