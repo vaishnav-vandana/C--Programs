@@ -1,4 +1,5 @@
 /*BITWISE OPERATOR*/
+
 #include <stdio.h>
 
 int main()
