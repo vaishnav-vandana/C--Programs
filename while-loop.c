@@ -1,4 +1,5 @@
 /* WHILE LOOP IN C  */
+
 #include <stdio.h>
 
 int main ()
@@ -11,3 +12,11 @@ int main ()
     }
     return 0 ;
 }
+
+/*
+OUTPUT :
+✔ Loop starts from 0
+✔ Runs until i < 54
+✔ Prints numbers from 0 to 53
+✔ Each value increases by 1
+*/
