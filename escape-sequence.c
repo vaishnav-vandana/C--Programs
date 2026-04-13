@@ -1,9 +1,11 @@
 /*ESCAPE SEQUENCE IN C */
 
-//1. \n - New Line
+// EXAMPLE 1. \n - New Line
+
 #include <stdio.h>
 
 int main()
+
 {
     printf("Mom: Study now!\n");
     printf("Me: 5 minutes...\n");
@@ -19,6 +21,7 @@ Also me after 5 hours: Still 5 minutes left 😅
 */
 
 
+// COMMON ESCAPE SEQUENCES USED IN C
 /*
 These are special character used inside printf() with \ 
 Example are : 
