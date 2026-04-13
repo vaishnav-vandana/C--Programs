@@ -1,4 +1,5 @@
 /*NESTED SWITCH CASE IN C  */
+
 #include <stdio.h>
 
 int main()
@@ -41,3 +42,10 @@ int main()
     }
     return 0 ;
 }
+
+/*
+OUTPUT :
+Output depends on user input:
+- If age = 3 → nested switch executes
+- If marks = 45 → prints "Your marks are 45"
+*/
