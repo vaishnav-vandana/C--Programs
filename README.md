@@ -20,13 +20,20 @@ This repository contains my hands-on practice programs, organized in a structure
 ```bash
 C-Programming-Journey/
 │
-├── Basics/
-├── Operators/
 ├── Control-Statements/
-│   ├── if/
-│   ├── loops/
-│   ├── switch/
+│   ├── if-statement.c
+│   ├── if-else.c
+│   ├── nested-if.c
 │
+├── loops/
+│   ├── for-loop.c
+│   ├── while-loop.c
+│   ├── do-while-loop.c
+│   ├── break.c
+│   ├── continue.c
+│
+├── Operators/
+├── Basics/
 ├── Advanced/
 ├── Practice/
 │
