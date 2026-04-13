@@ -1,5 +1,7 @@
 // OPERATOR IN C LANGUAGE //
+
 /* ARITHMETIC OPERATOR */
+
 #include <stdio.h>
 
 int main()
