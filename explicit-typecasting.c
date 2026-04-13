@@ -1,4 +1,7 @@
-/* TYPECASTING : EXPLICIT  IN C */
+// TYPECASTING  IN C 
+
+/* EXPLICIT TYPECASTING */ 
+
 #include <stdio.h>
 
 int main()
