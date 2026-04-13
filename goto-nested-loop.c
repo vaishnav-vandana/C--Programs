@@ -20,4 +20,10 @@ int main()
 
 
     return 0;
-}
+} 
+
+/* 
+OUTPUT :
+→ asks input repeatedly  
+Program stops when user enters 0
+*/
