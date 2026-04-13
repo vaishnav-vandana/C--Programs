@@ -1,4 +1,5 @@
 /*EXERCISE 1 : MULTIPLICATION TABLE : */
+
 #include <stdio.h>
 
 int main()
@@ -15,6 +16,7 @@ int main()
    
     return 0;
 }
+
 /* OUTPUT:
 Enter the number you want multiplication table of: 8
 8 x 1 = 8
