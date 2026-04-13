@@ -1,4 +1,5 @@
 /*LOGICAL OPERATOR */
+
 #include <stdio.h>
 
 int main ()
@@ -20,4 +21,3 @@ a&&b 0
 a||b 1
 !(a&&b) 1
 */
-
