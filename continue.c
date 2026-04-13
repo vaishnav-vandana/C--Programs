@@ -1,5 +1,7 @@
 /* CONTINUE STATEMENT IN C */
+
 #include <stdio.h>
+
 int main()
 {
     int i , age ;
@@ -15,3 +17,10 @@ int main()
     }
     return 0 ;
 }
+
+/* OUTPUT :
+i=0 → age>10 → continue  
+i=1 → age≤10 → "Out of continue loop"  
+i=2 → age>10 → continue  
+i=3 → age≤10 → "Out of continue loop"  
+... (repeats till i=9) */
