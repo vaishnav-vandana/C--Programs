@@ -1,51 +1,48 @@
-🚀 C PROGRAMMING JOURNEY 
+![C](https://img.shields.io/badge/Language-C-blue)
+![Status](https://img.shields.io/badge/Progress-Learning-green)
+
+-----
+# 🚀 C Programming Journey
 
 🙏 JAI SHREE RADHEKRISHNA 🤗😇
 
-I'm VANDANA VAISHNAV 
+I'm  **Vandana Vaishnav**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnav-vandana&show_icons=true&theme=tokyonight)
 
 A passionate learner on a journey to master C Programming step by step with consistency and discipline.
 
 💭 Even when things feel confusing or frustrating, I choose to keep going.
 
-📌 Repository Overview
+## 📌 Repository Overview
 
-📚 This repository contains my hands-on C programs, organized from basic → advanced concepts.
+📚 This repository contains my hands-on C programs, organized from basic to advanced concepts.
 
-✨ The goal is to build:
+## ✨ Goals 
 
-Strong fundamentals
-Logical thinking
-Problem-solving skills
-🗂️ Project Structure
+- Strong fundamentals
+- Logical thinking
+- Problem-solving skills
 
+## 🗂️ Project Structure
+
+```bash 
 C-Programming-Journey/
-│
 ├── Basics/
-│
 ├── Constants-Data-Handling/
-│
 ├── Operators/
-│
 ├── Control-Statements/
-│
 ├── Loops/
-│
 ├── Jump-Statements/
-│
 ├── Functions/
-│
 ├── Typecasting/
-│
 ├── Preprocessor-Directives/
-│
 ├── Practice/
-│
 ├── File-Handling/
-│
 ├── Advanced/
+```
 
-🧩 Concepts Covered
+## 🧩 Concepts Covered
 
 🔹 Core Fundamentals
 
@@ -78,10 +75,10 @@ C-Programming-Journey/
 
 🔹 Functions
 
-✔ function_with_args_with_return_value
-✔ function_with_args_without_return_value
-✔ function_without_args_with_return_value
-✔ function_without_args_without_return_value 
+✔ Function with arguments and return value 
+✔ Function with arguments and without return value 
+✔ Function without arguments and with return value 
+✔ Function without arguments and without return value 
 
 🔹 Switch Case
 
@@ -99,28 +96,26 @@ C-Programming-Journey/
 ✔ Multiplication Table
 ✔ Quiz Programs
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 
 🎯 Build strong programming fundamentals
 🎯 Improve problem-solving skills
 🎯 Write clean and efficient code
 
-🛠️ Tools & Technologies
-Tool	Usage
-💻 C	Programming Language
+## 🛠️ Tools & Technologies
+| Tool | Usage |
+|------|------|
+| 💻 C | Programming Language |
+| 🧑‍💻 VS Code | Code Editor |
+| ⚙️ GCC | Compiler |
 
-🧑‍💻 VS Code	Code Editor
+## 📚 Learning Resources
 
-⚙️ GCC	Compiler
+- CodeWithHarry
+- ChatGPT
+- Self Practice & Exploration
 
-📚 Learning Resources
-CodeWithHarry
-
-ChatGPT
-
-Self Practice & Exploration
-
-🙌 Credits
+## 🙌 Credits
 
 🚀 This C Programming Journey is primarily based on learning from CodeWithHarry.
 
@@ -128,18 +123,19 @@ Self Practice & Exploration
 
 📚 Along with this, I also use ChatGPT and self-practice to strengthen my understanding.
 
+## 📊 Progress
 
-🟢 Basics – Completed
-🟡 Intermediate – In Progress
-🔵 Advanced – Coming Soon
+🟢 Basics — Completed  
+🟡 Intermediate — In Progress  
+🔵 Advanced — Coming Soon  
 
-🔗 Upcoming Work
+## 🔗 Upcoming Work
 
 🚀 Python Learning Journey (Coming Soon)
 
 👉 Separate repository for better structure
 
-⭐ Future Plans
+## ⭐ Future Plans
 
 ✨ Add advanced C programs
 
@@ -147,12 +143,14 @@ Self Practice & Exploration
 
 ✨ Build mini projects
 
-💬 Mindset
+## 💬 Mindset
 
-Sometimes learning feels overwhelming and frustrating.
-But progress is not about perfection — it's about consistency.
+Learning is not always easy — it comes with confusion, mistakes, and challenges.
 
-⚡ I may feel stuck, but I don’t stop
-⚡ I may feel confused, but I keep learning
+But growth happens when you keep going despite that.
 
-🔥 No giving up — only moving forward
+⚡ I may feel stuck, but I don’t stop  
+⚡ I may feel confused, but I keep learning  
+
+🔥 Consistency over perfection  
+🔥 No giving up — only moving forward  
