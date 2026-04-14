@@ -1,183 +1,146 @@
-# 🚀 C Programming Journey
+🚀 C PROGRAMMING JOURNEY 
 
-## 🙏 JAI SHREE RADHEKRISHNA
+🙏 JAI SHREE RADHEKRISHNA 🤗😇
 
-I'm **Vandana Vaishnav**
-A dedicated learner on a journey to master **C Programming** step by step with consistency and discipline.
+I'm VANDANA VAISHNAV 
+A passionate learner on a journey to master C Programming step by step with consistency and discipline.
 
-💭 *Even when things feel confusing or frustrating, I choose to keep going.*
+💭 Even when things feel confusing or frustrating, I choose to keep going.
 
----
+📌 Repository Overview
 
-## 📌 Repository Overview
+📚 This repository contains my hands-on C programs, organized from basic → advanced concepts.
 
-This repository contains my hands-on practice programs, organized in a structured way to reflect my learning progress from basic to advanced concepts in C programming.
+✨ The goal is to build:
 
----
-
-## 🗂️ Project Structure
-
-```bash
+Strong fundamentals
+Logical thinking
+Problem-solving skills
+🗂️ Project Structure
 C-Programming-Journey/
 │
-├── Control-Statements/
-│   ├── if-statement.c
-│   ├── if-else.c
-│   ├── nested-if.c
+├── Basics/
 │
-├── loops/
-│   ├── for-loop.c
-│   ├── while-loop.c
-│   ├── do-while-loop.c
-│   ├── break.c
-│   ├── continue.c
+├── Constants-Data-Handling/
 │
 ├── Operators/
-├── Basics/
-├── Advanced/
+│
+├── Control-Statements/
+│
+├── Loops/
+│
+├── Jump-Statements/
+│
+├── Functions/
+│
+├── Typecasting/
+│
+├── Preprocessor-Directives/
+│
 ├── Practice/
 │
-├── README.md
-├── .gitignore
-```
+├── File-Handling/
+│
+├── Advanced/
 
-📌 *This structure will continue to grow as I learn more topics like Functions, Arrays, Pointers, and more.*
+🧩 Concepts Covered
 
----
+🔹 Core Fundamentals
 
-## 🧩 Concepts Covered
+✔ Hello World
+✔ Sum of Two Numbers
+✔ Sizeof Operator
 
-This repository is structured to reflect my step-by-step learning in **C programming**, covering fundamental to advanced concepts:
+🔹 Operators & Expressions
 
-### 🔹 Core Fundamentals
+✔ Arithmetic Operators
+✔ Assignment Operators
+✔ Relational Operators
+✔ Logical Operators
+✔ Bitwise Operators
 
-**Basic Programs**
+🔹 Decision Making
 
-* Hello World
-* Sum of Two Numbers
-* Sizeof Operator
+✔ if
+✔ if-else
+✔ if-else-if
+✔ Nested if
 
-**Constants & Data Handling**
+🔹 Loops
 
-* Constants
-* Format Specifiers
-* Escape Sequences
+✔ for loop
+✔ while loop
+✔ do-while loop
+✔ break
+✔ continue
 
----
+🔹 Functions
 
-### 🔹 Operators & Expressions
+✔ function_with_args_with_return_value
+✔ function_with_args_without_return_value
+✔ function_without_args_with_return_value
+✔ function_without_args_without_return_value 
 
-* Arithmetic Operators
-* Assignment Operators
-* Relational Operators
-* Logical Operators
-* Bitwise Operators
+🔹 Switch Case
 
----
+✔ Basic switch
+✔ Nested switch
 
-### 🔹 Decision Making (Conditional Statements)
+🔹 Advanced Concepts
 
-* `if` Statement
-* `if-else` Statement
-* `if-else-if` Ladder
-* Nested `if`
+✔ goto
+✔ Preprocessor (#define)
+✔ Typecasting (Implicit & Explicit)
 
----
+🔹 Practice Programs
 
-### 🔹 Looping Constructs
+✔ Multiplication Table
+✔ Quiz Programs
 
-* `for` Loop
-* `while` Loop
-* `do-while` Loop
-* `break` Statement
-* `continue` Statement
+🎯 Learning Goals
 
----
+🎯 Build strong programming fundamentals
+🎯 Improve problem-solving skills
+🎯 Write clean and efficient code
 
-### 🔹 Switch Case Control
+🛠️ Tools & Technologies
+Tool	Usage
+💻 C	Programming Language
+🧑‍💻 VS Code	Code Editor
+⚙️ GCC	Compiler
 
-* Basic `switch-case`
-* Nested `switch-case`
+📚 Learning Resources
+CodeWithHarry
+ChatGPT
+Self Practice & Exploration
 
----
+🙌 Credits
+🚀 This C Programming Journey is primarily based on learning from CodeWithHarry.
+🎥 His tutorials played a major role in helping me understand concepts step by step in a clear and structured way.
+📚 Along with this, I also use ChatGPT and self-practice to strengthen my understanding.
 
-### 🔹 Advanced Concepts
 
-* `goto` Statement
-* Nested `goto`
-* Preprocessor Directives (`#define`)
+🟢 Basics – Completed
+🟡 Intermediate – In Progress
+🔵 Advanced – Coming Soon
 
-**Typecasting**
+🔗 Upcoming Work
 
-* Implicit Typecasting
-* Explicit Typecasting
+🚀 Python Learning Journey (Coming Soon)
+👉 Separate repository for better structure
 
----
+⭐ Future Plans
 
-### 🔹 Practice Programs
+✨ Add advanced C programs
+✨ Start Data Structures
+✨ Build mini projects
 
-* Multiplication Table
-* Quiz Programs
+💬 Mindset
 
----
+Sometimes learning feels overwhelming and frustrating.
+But progress is not about perfection — it's about consistency.
 
-💡 Each section represents my hands-on practice and growing understanding of C programming concepts.
+⚡ I may feel stuck, but I don’t stop
+⚡ I may feel confused, but I keep learning
 
----
-
-## 🎯 Learning Goals
-
-* Build strong programming fundamentals
-* Improve logical thinking and problem-solving skills
-* Write clean and efficient C programs
-
----
-
-## 🛠️ Tools & Technologies
-
-* **Language:** C
-* **Editor:** VS Code
-* **Compiler:** GCC
-
----
-
-## 📚 Learning Resources
-
-* CodeWithHarry
-* ChatGPT
-* Self Practice & Exploration
-
----
-
-## 🔗 Upcoming Work
-
-🚀 I am also working on my **Python learning journey**, which will be uploaded soon as a separate repository.
-
-👉 The goal is to keep each repository focused, structured, and easy to explore.
-
----
-
-## 📈 Progress
-
-📌 This repository is actively maintained and updated as I continue learning new concepts.
-
----
-
-## ⭐ Future Plans
-
-* Add more advanced C programs
-* Start Data Structures in C
-* Build mini-projects
-
----
-
-## 💬 Mindset
-
-> Sometimes learning feels overwhelming and frustrating.
-> But progress is not about perfection — it's about consistency.
-
-⚡ *I may feel stuck, but I don’t stop.*
-⚡ *I may feel confused, but I keep learning.*
-
-🔥 **No giving up — only moving forward.**
-
+🔥 No giving up — only moving forward
