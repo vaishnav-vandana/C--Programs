@@ -18,6 +18,7 @@ Strong fundamentals
 Logical thinking
 Problem-solving skills
 🗂️ Project Structure
+
 C-Programming-Journey/
 │
 ├── Basics/
