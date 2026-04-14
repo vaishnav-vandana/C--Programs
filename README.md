@@ -3,6 +3,7 @@
 🙏 JAI SHREE RADHEKRISHNA 🤗😇
 
 I'm VANDANA VAISHNAV 
+
 A passionate learner on a journey to master C Programming step by step with consistency and discipline.
 
 💭 Even when things feel confusing or frustrating, I choose to keep going.
@@ -106,17 +107,24 @@ C-Programming-Journey/
 🛠️ Tools & Technologies
 Tool	Usage
 💻 C	Programming Language
+
 🧑‍💻 VS Code	Code Editor
+
 ⚙️ GCC	Compiler
 
 📚 Learning Resources
 CodeWithHarry
+
 ChatGPT
+
 Self Practice & Exploration
 
 🙌 Credits
+
 🚀 This C Programming Journey is primarily based on learning from CodeWithHarry.
+
 🎥 His tutorials played a major role in helping me understand concepts step by step in a clear and structured way.
+
 📚 Along with this, I also use ChatGPT and self-practice to strengthen my understanding.
 
 
@@ -127,12 +135,15 @@ Self Practice & Exploration
 🔗 Upcoming Work
 
 🚀 Python Learning Journey (Coming Soon)
+
 👉 Separate repository for better structure
 
 ⭐ Future Plans
 
 ✨ Add advanced C programs
+
 ✨ Start Data Structures
+
 ✨ Build mini projects
 
 💬 Mindset
