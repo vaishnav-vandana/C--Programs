@@ -6,13 +6,13 @@
 
 🙏 JAI SHREE RADHEKRISHNA 🤗😇
 
-I'm  **Vandana Vaishnav**  
+I'm **Vandana Vaishnav**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnav-vandana&show_icons=true&theme=tokyonight)
 
 A passionate learner on a journey to master C Programming step by step with consistency and discipline.
 
-💭 Even when things feel confusing or frustrating, I choose to keep going.
+💭 Even when things feel confusing or frustrating, I choose consistency and keep going.
 
 ## 📌 Repository Overview
 
@@ -35,6 +35,7 @@ C-Programming-Journey/
 ├── Loops/
 ├── Jump-Statements/
 ├── Functions/
+├── Recursion/
 ├── Typecasting/
 ├── Preprocessor-Directives/
 ├── Practice/
@@ -46,54 +47,91 @@ C-Programming-Journey/
 
 🔹 Core Fundamentals
 
+
 ✔ Hello World
+
 ✔ Sum of Two Numbers
+
 ✔ Sizeof Operator
 
 🔹 Operators & Expressions
 
+
 ✔ Arithmetic Operators
+
 ✔ Assignment Operators
+
 ✔ Relational Operators
+
 ✔ Logical Operators
+
 ✔ Bitwise Operators
 
 🔹 Decision Making
 
+
 ✔ if
+
 ✔ if-else
+
 ✔ if-else-if
+
 ✔ Nested if
 
 🔹 Loops
 
+
 ✔ for loop
+
 ✔ while loop
+
 ✔ do-while loop
+
 ✔ break
+
 ✔ continue
 
 🔹 Functions
 
+
 ✔ Function with arguments and return value 
+
 ✔ Function with arguments and without return value 
+
 ✔ Function without arguments and with return value 
+
 ✔ Function without arguments and without return value 
+
+🔹 Recursion
+
+
+✔ Factorial using recursion  
+
+✔ Fibonacci series using recursion  
+
+✔ Understanding base case and recursive calls
 
 🔹 Switch Case
 
+
 ✔ Basic switch
+
 ✔ Nested switch
 
 🔹 Advanced Concepts
 
+
 ✔ goto
+
 ✔ Preprocessor (#define)
+
 ✔ Typecasting (Implicit & Explicit)
 
 🔹 Practice Programs
 
+
 ✔ Multiplication Table
+
 ✔ Quiz Programs
 
 ## 🎯 Learning Goals
@@ -154,3 +192,8 @@ But growth happens when you keep going despite that.
 
 🔥 Consistency over perfection  
 🔥 No giving up — only moving forward  
+
+
+📌 Recently Added
+
+✔ Recursive programs (Factorial & Fibonacci)
