@@ -4,7 +4,7 @@
 -----
 # 🚀 C Programming Journey
 
-🙏 JAI SHREE RADHEKRISHNA 🤗😇
+🙏 JAI SHREE RADHEKRISHN 🤗😇
 
 I'm **Vandana Vaishnav**  
 
