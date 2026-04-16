@@ -14,7 +14,7 @@ int main()
 
         fahrenheit = ((celsius*1.8) + 32 );
 
-        printf ("Value in fahrenheit = %lf \n" , fahrenheit);
+        printf ("Value in fahrenheit = %.2lf \n" , fahrenheit);
 
         printf("Do you want to continue ? (yes-y / no-n): \n");
         scanf(" %c",&choice);
