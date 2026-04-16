@@ -132,7 +132,7 @@ C-Programming-Journey/
 
 ✔ Multiplication Table
 
-✔ Unit conversion (cm to m) 
+✔ Unit conversion ( cm to m , celsius to fahrenheit )
 
 ✔ Quiz Programs
 
@@ -198,4 +198,4 @@ But growth happens when you keep going despite that.
 
 📌 Recently Added
 
-✔ Recursive programs (Factorial & Fibonacci)
+✔ Unit conversion program (celcius to fahrenheit ) 
