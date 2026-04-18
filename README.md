@@ -38,6 +38,7 @@ C-Programming-Journey/
 ├── Recursion/
 ├── Typecasting/
 ├── Preprocessor-Directives/
+├── Array 
 ├── Practice/
 ├── File-Handling/
 ├── Advanced/
@@ -117,6 +118,13 @@ C-Programming-Journey/
 ✔ Basic switch
 
 ✔ Nested switch
+
+🔹 Arrays
+
+
+✔ One dimensional array 
+
+✔ Two  dimensional array 
 
 🔹 Advanced Concepts
 
@@ -198,4 +206,4 @@ But growth happens when you keep going despite that.
 
 📌 Recently Added
 
-✔ Unit conversion program (celcius to fahrenheit ) 
+✔ Added two dimensional array 
