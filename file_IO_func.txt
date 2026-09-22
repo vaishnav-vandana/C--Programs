@@ -1,0 +1,3 @@
+Programming in c 
+A
+This is written using fputs.
