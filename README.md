@@ -477,16 +477,6 @@ Through these programs, I am working on:
 
 ---
 
-# 🚀 Upcoming Work
-
-## 🐍 Python Learning Journey
-
-Coming soon!
-
-I plan to create a **separate repository for Python** so that my learning projects remain organized.
-
----
-
 # 🔮 Future Plans
 
 My future learning goals include:
