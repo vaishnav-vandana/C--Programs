@@ -4,8 +4,6 @@
 -----
 # 🚀 C Programming Journey
 
-🙏 JAI SHREE RADHEKRISHN 🤗😇 
-
 I'm **Vandana Vaishnav**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnav-vandana&show_icons=true&theme=tokyonight)
